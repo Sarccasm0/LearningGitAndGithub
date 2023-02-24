@@ -1,0 +1,3 @@
+Learning the basics.
+slang, meaning and how to create repositories.
+also how to create a push.
