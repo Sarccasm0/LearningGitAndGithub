@@ -3,3 +3,5 @@ slang, meaning and how to create repositories.
 also how to create a push.
 Things I learned:
   edit files
+  create branches and a basic explanation of the sistem of github
+  also I created a branch for the extra learning thingys.
